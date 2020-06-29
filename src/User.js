@@ -107,7 +107,7 @@ class User extends Component {
                 <Repos repos={this.state.reposStarred}/>
               </Container>
               <div className='footer'>
-                <p style={{backgroundColor: 'rgb(39, 41, 61)', fontSize: '18px'}}>Made with <i className="fa fa-heart text-danger"></i> by <a href='https://github.com/piyushsinha24'>@piyushsinha24</a></p>
+                <p style={{backgroundColor: 'rgb(39, 41, 61)', fontSize: '18px'}}>Created with <i className="fa fa-heart text-danger"></i> by <a href='https://github.com/saminwankwo'>@saminwankwo</a></p>
                 </div>
             </div>
             
