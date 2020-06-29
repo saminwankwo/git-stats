@@ -1,7 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/dfe3122e-492e-4fc6-b10f-a6f1e921a0bd/deploy-status)](https://app.netlify.com/sites/git-space/deploys)
 
 # Git-Space
-<img src="git-space.png" width="800">
+<img src="" width="800">
 
 # :man_technologist: Technology Stack
 * [React](https://reactjs.org)
