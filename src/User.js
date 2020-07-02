@@ -108,7 +108,7 @@ class User extends Component {
               </Container>
               <div className='footer'>
                 <p style={{backgroundColor: 'rgb(39, 41, 61)', fontSize: '18px'}}>Created with <i className="fa fa-heart text-danger"></i> by <a href='https://github.com/saminwankwo'>@saminwankwo</a></p>
-                </div>
+                </div> s
             </div>
             
             

@@ -44,6 +44,10 @@ class Landing extends Component {
                         </InputGroup.Append>
                     </InputGroup>
                 </form>
+                
+                <div className='last'>
+                <p style={{fontSize: '18px'}}>Created with <i className="fa fa-heart text-danger"></i> by <a href='https://github.com/saminwankwo'>@saminwankwo</a></p>
+                </div>
             </div>
         )
     }
