@@ -99,7 +99,7 @@ class User extends Component {
             </Container> :
             <div>
               <Navbar style={{backgroundColor: 'rgb(39, 41, 61)'}}>
-                <Navbar.Brand style={{color: 'white', fontSize: '30px', letterSpacing: '3px'}} href="/">Git-Space</Navbar.Brand>
+                <Navbar.Brand style={{color: 'white', fontSize: '30px', letterSpacing: '3px'}} href="/">Git Stats</Navbar.Brand>
               </Navbar>
               <Container>
                 <Profile data={this.state.data} stars={this.state.totalStars} forks={this.state.totalForks} languages={this.state.language}/>
