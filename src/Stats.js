@@ -58,7 +58,7 @@ class Stats extends Component {
                         <Col xs={12} md={12}> 
                             <PieChart className='chart' key='lang'
                              data={data}
-                            // label={({ dataEntry }) => dataEntry.title}
+                            label={({ dataEntry }) => dataEntry.title}
                              />
                         </Col>
                         </Row>
@@ -72,7 +72,7 @@ class Stats extends Component {
                         <Col xs={12} md={12}> 
                             <PieChart className='chart' key='lang'
                              data={data2}
-                            // label={({ dataEntry }) => dataEntry.title}
+                            label={({ dataEntry }) => dataEntry.title}
                              />
                         </Col>
                         </Row>
@@ -86,7 +86,7 @@ class Stats extends Component {
                         <Col xs={12} md={12}> 
                             <PieChart className='chart' key='lang'
                              data={data3}
-                            // label={({ dataEntry }) => dataEntry.title}
+                            label={({ dataEntry }) => dataEntry.title}
                              />
                         </Col>
                         </Row>
